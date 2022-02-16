@@ -4,6 +4,6 @@ Description: This is a weather app that i've been working on on the side, as I d
 
 How To Run: use the search bar to search your local weather.  
 
-Future Improvements: Improvements are ongoing. this APP is in the early beta stages. 
+Future Improvements: Improvements are ongoing. this APP will be refactored in React. 
 
 License:  Alexander Bishop
